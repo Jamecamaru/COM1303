@@ -1,3 +1,15 @@
 # COM1303
-(Link)[[https://github.com/Jamecamaru/COM1303.git](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
-# นนน
+#สับดาห์ที่ 1
+## ผู้จัดทำ นาย พีรพล นันตา 69143814
+(link)[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+1.Git คือระบบควบคุมเวอร์ชัน (Version Control System) ที่ใช้บันทึกและติดตามการเปลี่ยนแปลงของไฟล์ในโครงการ เช่น ไฟล์โปรแกรม ไฟล์เว็บไซต์ และเอกสารต่าง ๆ
+2.การทำงาน เว็บไซต์ทำงานโดยผู้ใช้เปิดบราวเซอร์เเละส่งคำขอไปยังบราวเซอร์ จากนั้นเเซิน์ฟเวอร์จะส่งข้อมูลกลับมาเเสดงผลบนหน้าเว็บไซต์
+3.เว็บไซต์ (Website) เน้นนำเสนอข้อมูล ข่าวสาร บทความ หรือเนื้อหาให้ผู้ใช้อ่านและรับชม  
+  เว็บแอปพลิเคชัน (Web Application)เน้นให้ผู้ใช้ทำงานหรือโต้ตอบกับระบบ เช่น กรอกข้อมูล คำนวณ บันทึก หรือจัดการข้อมูล
+4.คู่มือการใช้งาน Github
+ 1.สมัครสมาชิกที่Github
+ 2.เข้าสู่ระบบ
+ 3.สร้าง Repository เพื่อเก็บไฟล์งาน
+ 4.เพิ่มไฟล์เเละเข๊ยนรายละเอียดใน README.md
+ 5.บันทึกการเปลี่ยนเเปลงไฟล์
+ 6.เเชรืลิ้งก์ Repository ให้ผู้อื่นเข้าชม
